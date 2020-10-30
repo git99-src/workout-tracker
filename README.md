@@ -1,7 +1,7 @@
 # workout-tracker
 
 Link to application:  
-https://cryptic-shelf-56462.herokuapp.com/  
+https://mysterious-basin-13178.herokuapp.com/
 
 Link to GitHub repository:  
 https://github.com/git99-src/workout-tracker  
@@ -12,6 +12,7 @@ The Fitness Tracker application allows the user to track daily workouts. The use
 
 ## Table of Contents 
   * [Installation](#installation)
+  * [Screens](#usage)
   * [Development](#development)
   * [License](#license)
   * [Contributing](#contributing)
@@ -21,7 +22,21 @@ The Fitness Tracker application allows the user to track daily workouts. The use
 
 If you are interested in installing and using the project, you can do so by forking the GitHub repository and cloning it to your machine.  
 
-To use the app, simply follow the provided Heroku link and sign up.  
+To use the app, simply follow the provided Heroku link.  
+
+## Usage
+
+This screen is the home screen.  This presents the user with a summary of their last workout. They can decide to continue with the workout or start a new one.
+![Last Workout Summary](public/images/workimg_01.PNG) 
+
+The user is presented with this screen after choosing to Continue Workout or New Workout. This is where the user can add an exercise and related information to the exercise based on the type of workout - cardio or resistance.
+![Last Workout Summary](public/images/workimg_02.PNG) 
+
+
+This the workout dashboard presented to the user which gives a summary of the weekly workouts.  The user can navigate to this screen by clicking on "Dashboard" in the upper left of any screen.
+![Workout Dashboard](public/images/workimg_03.PNG) 
+
+To use the app, simply follow the provided Heroku link at the link above. 
 
 ## Development 
 
